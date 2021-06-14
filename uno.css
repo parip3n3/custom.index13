@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(91, 136, 136);
+}
+
+h1{
+    text-align: center;
+    background-color:rgb(255, 253, 253);
+
+}
+footer{
+    text-align: center;
+    background-color:rgb(114, 211, 206);
+}
+form{
+    text-align: center;
+
+}
+#contenido  
+{
+    width: 960px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+h1
+{
+    font-family: 'Russo One', sans-serif;
+    color:rgb(248, 248, 248)
+}
+nav ul li
+{
+    display: inline-block;
+    margin-right: 20px;
+    cursor: pointer;
+    color:rgb(245, 115, 115)
+}
+#textopr
+{
+    width: 600px;
+    height: 400px;
+    background-color:ghostwhite;
+    margin:0 auto;
+    text-align: left;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
+    color:rgb(0, 0, 0)
+}
+a
+{
+    color:gray;
+    font-weight:bold ;
+}
+
+label
+{
+    display: block;
+}
+#btnSubmit
+{
+    border:none;
+    cursor:pointer;
+    background-color:rgb(243, 53, 53);
+    color:rgb(227, 212, 241)
+}
